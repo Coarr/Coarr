@@ -9,6 +9,7 @@ Yo me considero experto en:
 • Java
 • C++
 • HTML (No tan experto, pero algo se Jajas)
+• JavaScript
 
 # Idiomas 🤔
 Mi conocimiento en idiomas son dos:
